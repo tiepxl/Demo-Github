@@ -1,0 +1,15 @@
+/Users/guitar/CodeDev/Net5/bin/Debug/net5.0/Net5.deps.json
+/Users/guitar/CodeDev/Net5/bin/Debug/net5.0/Net5.runtimeconfig.json
+/Users/guitar/CodeDev/Net5/bin/Debug/net5.0/Net5.runtimeconfig.dev.json
+/Users/guitar/CodeDev/Net5/bin/Debug/net5.0/Net5.dll
+/Users/guitar/CodeDev/Net5/bin/Debug/net5.0/ref/Net5.dll
+/Users/guitar/CodeDev/Net5/bin/Debug/net5.0/Net5.pdb
+/Users/guitar/CodeDev/Net5/obj/Debug/net5.0/Net5.csprojAssemblyReference.cache
+/Users/guitar/CodeDev/Net5/obj/Debug/net5.0/Net5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guitar/CodeDev/Net5/obj/Debug/net5.0/Net5.AssemblyInfoInputs.cache
+/Users/guitar/CodeDev/Net5/obj/Debug/net5.0/Net5.AssemblyInfo.cs
+/Users/guitar/CodeDev/Net5/obj/Debug/net5.0/Net5.csproj.CoreCompileInputs.cache
+/Users/guitar/CodeDev/Net5/obj/Debug/net5.0/Net5.dll
+/Users/guitar/CodeDev/Net5/obj/Debug/net5.0/ref/Net5.dll
+/Users/guitar/CodeDev/Net5/obj/Debug/net5.0/Net5.pdb
+/Users/guitar/CodeDev/Net5/obj/Debug/net5.0/Net5.genruntimeconfig.cache

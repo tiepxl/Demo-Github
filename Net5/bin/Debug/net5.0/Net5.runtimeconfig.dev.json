@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/guitar/.dotnet/store/|arch|/|tfm|",
+      "/Users/guitar/.nuget/packages"
+    ]
+  }
+}
